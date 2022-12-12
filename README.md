@@ -13,7 +13,7 @@ YouTube Video :
 
 Article on Medium:
 <br>
-[https://androidgeek.co/how-to-implement-pagination-in-kotlin-retrofit-hilt-paging-baa620cf5b50](https://medium.com/@ezatpanah/how-to-use-postman-to-test-an-api-a8eefdb1d321)
+https://medium.com/@ezatpanah/how-to-use-postman-to-test-an-api-a8eefdb1d321
 <br>
 <br>
 
